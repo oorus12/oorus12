@@ -1,7 +1,7 @@
 <h1 align="center">👋 Привет! Я Михаил</h1>
 <h3 align="center">🛠️ DevOps Engineer | Инженер с опытом эксплуатации высоконагруженных систем</h3>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22F76E&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Архитектура+высоконагруженных+систем;Решаю+реальные+проблемы+на+проектах" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22F76E&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Архитектура+высоконагруженных+систем;Решаю+реальные+проблемы+на+проектах" />
 
 ---
 
